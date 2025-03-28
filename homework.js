@@ -27,7 +27,7 @@ if (m>n){
 console.log("Rise and shine", studentName + "!") */
 
 //5th task 
- let salary= 268
+/* let salary= 268
  let bonus
 
  if(salary>=2000){
@@ -36,5 +36,12 @@ console.log("Rise and shine", studentName + "!") */
     bonus= salary * 0.1
  }
 
- console.log(bonus)
+ console.log(bonus) */
  // თავიდან კონსოლ ლოგი იფში ჩავწერე მარა მერე რო მივხვდი, რომ 2-ჯერ ვწერდი ერთი და იგივეს გარეთ გამოვიტანე. 
+
+
+ // 6th task
+ let a = 23
+ let b = a/2
+ let c = a+b
+ console.log(c)

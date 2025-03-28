@@ -23,5 +23,18 @@ if (m>n){
 }                      */
 
 // 4th task 
-let studentName = "Nino"
-console.log("Rise and shine", studentName + "!")
+/*let studentName = "Nino"
+console.log("Rise and shine", studentName + "!") */
+
+//5th task 
+ let salary= 268
+ let bonus
+
+ if(salary>=2000){
+    bonus=0
+ }else{
+    bonus= salary * 0.1
+ }
+
+ console.log(bonus)
+ // თავიდან კონსოლ ლოგი იფში ჩავწერე მარა მერე რო მივხვდი, რომ 2-ჯერ ვწერდი ერთი და იგივეს გარეთ გამოვიტანე. 

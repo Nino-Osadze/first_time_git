@@ -48,4 +48,9 @@ console.log("Rise and shine", studentName + "!") */
 
  //7th task
  const phones = ["iphone","samsung","Pixel","Huawei","Xiaomi"]
- console.log(phones)
+ //console.log(phones) 
+
+ // 8th task
+
+ console.log(phones[0])
+ console.log(phones[phones.length-1])

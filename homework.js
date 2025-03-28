@@ -41,7 +41,11 @@ console.log("Rise and shine", studentName + "!") */
 
 
  // 6th task
- let a = 23
+ /* let a = 23
  let b = a/2
  let c = a+b
- console.log(c)
+ console.log(c) */
+
+ //7th task
+ const phones = ["iphone","samsung","Pixel","Huawei","Xiaomi"]
+ console.log(phones)

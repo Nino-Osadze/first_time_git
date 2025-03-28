@@ -14,11 +14,14 @@ console.log(a+b)*/
 console.log(student.firstname)*/
 
 // 3rd task 
-let m = 45
+/*  let m = 45
 let n = 23
 if (m>n){
     console.log(m+n)
 }else{
-    console.log(n)
-}
+    console.log(n) 
+}                      */
 
+// 4th task 
+let studentName = "Nino"
+console.log("Rise and shine", studentName + "!")

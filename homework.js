@@ -52,5 +52,5 @@ console.log("Rise and shine", studentName + "!") */
 
  // 8th task
 
- console.log(phones[0])
- console.log(phones[phones.length-1])
+ /*console.log(phones[0])
+ console.log(phones[phones.length-1])/*
